@@ -9,7 +9,8 @@
 + last name : Hozori
 + Date of birth : 1998/june/07
 + location : Tehran , I.R.Iran
-+ email:sepideh77hzri@gmail.com
++ email:
+  sepideh77hzri@gmail.com
 + Linkedln:
   https://www.linkedin.com/in/sepide-hozori-83898b222
 
@@ -17,7 +18,7 @@
 ### Skill Highlights
 
 ---
-1-Fluent in chemical laboratory devices (Hplc (Agilent 1100) ayassay and perservative ,refractometer, polarimeter, viscosity, IR, UV, centrifuge, LOD, ROI, melting point detector, pycnometer, sampler, scale, caliper, pH meter, conductivity meter, Resolution and dissolution device, Magnetic heater and stirrer Ultrasonic device, vortex, titration and solution, Qualitative and quantitative water analyzer CW and PW)
+1-Fluent in chemical laboratory devices (Hplc (Agilent 1100) assay and perservative ,refractometer, polarimeter, viscosity, IR, UV, centrifuge, LOD, ROI, melting point detector, pycnometer, sampler, scale, caliper, pH meter, conductivity meter, Resolution and dissolution device, Magnetic heater and stirrer Ultrasonic device, vortex, titration and solution, Qualitative and quantitative water analyzer CW and PW)
 2-Fluent in chemistry software (Chemoffice, Gaussian, GaussView, PyMOL, DRAGON, HyperChem, ...) and office software (Word, Excel, Power point)
 3-Interested and researcher in the design of vaccines and drugs by Bioinformatics
 4-Beginner Python Developer
@@ -57,5 +58,4 @@
 
 
 
---- 
-### [رزومه فارسی](resume-fa.md)
+
