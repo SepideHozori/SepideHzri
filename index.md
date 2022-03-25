@@ -9,25 +9,30 @@
 + last name : Hozori
 + Date of birth : 1998/june/07
 + location : Tehran , I.R.Iran
++ email:sepideh77hzri@gmail.com
++ Linkedln:
+  https://www.linkedin.com/in/sepide-hozori-83898b222
 
 
 ### Skill Highlights
 
 ---
-+ Fluent in chemical laboratory devices (Hplc (Agilent 1100) ayassay and perservative ,refractometer, polarimeter, viscosity, IR, UV, centrifuge, LOD, ROI, melting    point detector, pycnometer, sampler, scale, caliper, pH meter, conductivity meter, Resolution and dissolution device, Magnetic heater and stirrer Ultrasonic device, vortex, titration and solution, Qualitative and quantitative water analyzer CW and PW)
-+ Fluent in chemistry software (Chemoffice, Gaussian, GaussView, PyMOL, DRAGON, HyperChem, ...) and office software (Word, Excel, Power point)
-+ Interested and researcher in the design of vaccines and drugs by Bioinformatics
-+ Beginner Python Developer
-+ trade on  Forex
+1-Fluent in chemical laboratory devices (Hplc (Agilent 1100) ayassay and perservative ,refractometer, polarimeter, viscosity, IR, UV, centrifuge, LOD, ROI, melting point detector, pycnometer, sampler, scale, caliper, pH meter, conductivity meter, Resolution and dissolution device, Magnetic heater and stirrer Ultrasonic device, vortex, titration and solution, Qualitative and quantitative water analyzer CW and PW)
+2-Fluent in chemistry software (Chemoffice, Gaussian, GaussView, PyMOL, DRAGON, HyperChem, ...) and office software (Word, Excel, Power point)
+3-Interested and researcher in the design of vaccines and drugs by Bioinformatics
+4-Beginner Python Developer
+5-trade on  Forex
 
 
 
 ### Education
 
 ---
-+ Diploma: Experimental / Absal High School
-+ Bachelor: Applied Chemistry/ Tehran Azad University of Medical Sciences
-+ Passing the course of vaccine and drug design by bioinformatics method from the bioinformatics camp of Tehran University
+1-Diploma: Experimental / Absal High School
+2-Bachelor: Applied Chemistry/ Tehran Azad University of Medical Sciences
+3-Passing the course of vaccine and drug design by bioinformatics method from the bioinformatics camp of Tehran University
+
+
 ### language
 
 ---
@@ -37,17 +42,17 @@
 ### Favorites
 
 ---
-+ Trade
-+ Study about chemistry
-+ Do different formulations of cosmetics at home
-+ Search, research and teamwork
-+ Play music and sports
+1-Trade
+2-Study about chemistry
+3-Do different formulations of cosmetics at home
+4-Search, research and teamwork
+5-Play music and sports
 
 ### working Experience
 
 ---
-+ Spending 4 months of internship in the quality control laboratory of HAKIM Pharmaceutical Company
-+ Currently the expert of QC Laboratory of ZIST TAKHMIR Probiotic Products Company
+1-Spending 4 months of internship in the quality control laboratory of HAKIM Pharmaceutical Company
+2-Currently the expert of QC Laboratory of ZIST TAKHMIR Probiotic Products Company
 
 
 
